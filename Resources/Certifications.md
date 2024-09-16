@@ -12,46 +12,55 @@ Cybersecurity certifications validate the skills and knowledge of professionals,
 
 ## Popular Cybersecurity Certifications
 
-### CompTIA Certifications
+### CompTIA
 **[Link to Certification](https://www.comptia.org/certifications)**  
 CompTIA offers industry-recognized certifications such as:
 - **Security+**: A fundamental certification for IT professionals looking to validate their knowledge of security concepts.
 - **Network+**: Focuses on networking and infrastructure, crucial for building and maintaining secure environments.
 - **CASP+**: Advanced-level certification targeting professionals looking to prove their expertise in enterprise-level security.
 
-### ISC2 Certifications
+### ISC2
 **[Link to Certifications](https://www.isc2.org/Certifications)**  
 ISC2 provides globally recognized certifications, including:
 - **CISSP**: Certified Information Systems Security Professional, one of the most sought-after certifications for security leadership roles.
 - **SSCP**: Systems Security Certified Practitioner, which focuses on IT operational security.
 
-### GIAC Certifications
+### GIAC
 **[Link to Certification](https://www.giac.org/certifications)**  
 GIAC (Global Information Assurance Certification) provides in-depth certifications across multiple domains, including:
 - **GCIH**: GIAC Certified Incident Handler, perfect for professionals handling security incidents.
 - **GCFA**: GIAC Certified Forensic Analyst, focused on forensic investigations of data breaches and attacks.
 
-### Offensive Security Certifications (OffSec)
+### Offensive Security (OffSec)
 **[Link to Certifications](https://www.offsec.com/courses-and-certifications/)**  
 Offensive Security is well-known for their hands-on, challenge-based certifications:
 - **OSCP**: Offensive Security Certified Professional, one of the most respected penetration testing certifications.
 - **OSEP**: Offensive Security Experienced Penetration Tester, designed for advanced exploitation techniques.
 
-### EC-Council Certifications
+### EC-Council
 **[Link to Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)**  
 EC-Council certifications emphasize offensive security and defense:
 - **CEH**: Certified Ethical Hacker, which covers penetration testing techniques and tools.
 - **CND**: Certified Network Defender, which focuses on network security and infrastructure protection.
 
-### Microsoft Certifications
+### Microsoft Certified
 **[Link to Certifications](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&subjects=security)**  
 Microsoft offers a range of certifications for IT professionals, including:
 - **Security Engineer Certification**: Focuses on security in Microsoft environments, such as Azure and Microsoft 365, with emphasis on threat protection, identity management, and security operations.
 - **Azure Security Technologies Certification**: Validates skills in securing Microsoft Azure, focusing on security controls, network security, and data protection.
 
-### AWS Certified Security – Specialty
-**[Link to Certification](https://aws.amazon.com/certification/certified-security-specialty/)**  
-A specialty-level certification designed for professionals with expertise in securing AWS environments. This certification covers topics such as incident response, logging and monitoring, infrastructure security, identity and access management, and data protection.
+### AWS Certified
+**[Link to Certifications](https://aws.amazon.com/certification/)**  
+AWS offers a range of certifications across various levels and domains, allowing professionals to validate their expertise in cloud computing. The Specialty certifications dive deeper into specific technical areas, offering advanced knowledge and positioning professionals as trusted experts. Below are the key AWS Specialty certifications:
+
+- **AWS Certified Security – Specialty**  
+   This certification validates expertise in securing data and workloads in AWS environments. It covers topics like incident response, data protection mechanisms, identity and access management (IAM), and logging/monitoring solutions.
+
+- **AWS Certified Advanced Networking – Specialty**  
+   Focuses on designing and implementing complex networking tasks on AWS, including hybrid IT networks. This certification is ideal for those with deep networking expertise, covering topics like network architecture, multi-region networking, and automation.
+
+- **AWS Certified Machine Learning – Specialty**  
+   Designed for professionals who want to validate their skills in building, training, and deploying machine learning models using AWS services such as SageMaker. This certification emphasizes ML workflows, data engineering, and optimization.
 
 ### Hack The Box Certifications
 **[Link to Certifications](https://academy.hackthebox.com/preview/certifications)**  
