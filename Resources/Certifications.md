@@ -46,8 +46,8 @@ EC-Council certifications emphasize offensive security and defense:
 ### Microsoft Certified
 **[Link to Certifications](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&subjects=security)**  
 Microsoft offers a range of certifications for IT professionals, including:
-- **Security Engineer Certification**: Focuses on security in Microsoft environments, such as Azure and Microsoft 365, with emphasis on threat protection, identity management, and security operations.
-- **Azure Security Technologies Certification**: Validates skills in securing Microsoft Azure, focusing on security controls, network security, and data protection.
+- **Azure Security Engineer Associate**: Focuses on security in Microsoft environments, such as Azure and Microsoft 365, with emphasis on threat protection, identity management, and security operations.
+- **Security Operations Analyst Associate**: Validates expertise in threat management, monitoring, and response using a variety of security solutions across Microsoft platforms.
 
 ### AWS Certified
 **[Link to Certifications](https://aws.amazon.com/certification/)**  
