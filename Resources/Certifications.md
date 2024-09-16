@@ -53,13 +53,13 @@ Microsoft offers a range of certifications for IT professionals, including:
 **[Link to Certifications](https://aws.amazon.com/certification/)**  
 AWS offers a range of certifications across various levels and domains, allowing professionals to validate their expertise in cloud computing. The Specialty certifications dive deeper into specific technical areas, offering advanced knowledge and positioning professionals as trusted experts. Below are the key AWS Specialty certifications:
 
-- **AWS Certified Security – Specialty**  
+- **Security – Specialty**  
    This certification validates expertise in securing data and workloads in AWS environments. It covers topics like incident response, data protection mechanisms, identity and access management (IAM), and logging/monitoring solutions.
 
-- **AWS Certified Advanced Networking – Specialty**  
+- **Advanced Networking – Specialty**  
    Focuses on designing and implementing complex networking tasks on AWS, including hybrid IT networks. This certification is ideal for those with deep networking expertise, covering topics like network architecture, multi-region networking, and automation.
 
-- **AWS Certified Machine Learning – Specialty**  
+- **Machine Learning – Specialty**  
    Designed for professionals who want to validate their skills in building, training, and deploying machine learning models using AWS services such as SageMaker. This certification emphasizes ML workflows, data engineering, and optimization.
 
 ### Hack The Box Certifications
