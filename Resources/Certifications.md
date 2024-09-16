@@ -53,30 +53,23 @@ Microsoft offers a range of certifications for IT professionals, including:
 **[Link to Certifications](https://aws.amazon.com/certification/)**  
 AWS offers a range of certifications across various levels and domains, allowing professionals to validate their expertise in cloud computing. The Specialty certifications dive deeper into specific technical areas, offering advanced knowledge and positioning professionals as trusted experts. Below are the key AWS Specialty certifications:
 
-- **Security – Specialty**  
-   This certification validates expertise in securing data and workloads in AWS environments. It covers topics like incident response, data protection mechanisms, identity and access management (IAM), and logging/monitoring solutions.
+- **Security – Specialty**: This certification validates expertise in securing data and workloads in AWS environments. It covers topics like incident response, data protection mechanisms, identity and access management (IAM), and logging/monitoring solutions.
 
-- **Advanced Networking – Specialty**  
-   Focuses on designing and implementing complex networking tasks on AWS, including hybrid IT networks. This certification is ideal for those with deep networking expertise, covering topics like network architecture, multi-region networking, and automation.
+- **Advanced Networking – Specialty**: Focuses on designing and implementing complex networking tasks on AWS, including hybrid IT networks. This certification is ideal for those with deep networking expertise, covering topics like network architecture, multi-region networking, and automation.
 
-- **Machine Learning – Specialty**  
-   Designed for professionals who want to validate their skills in building, training, and deploying machine learning models using AWS services such as SageMaker. This certification emphasizes ML workflows, data engineering, and optimization.
+- **Machine Learning – Specialty**: Designed for professionals who want to validate their skills in building, training, and deploying machine learning models using AWS services such as SageMaker. This certification emphasizes ML workflows, data engineering, and optimization.
 
 ### Hack The Box (HTB)
 **[Link to Certifications](https://academy.hackthebox.com/preview/certifications)**  
 Hack The Box offers highly hands-on, challenge-based certifications aimed at professionals looking to validate their skills through real-world cybersecurity scenarios. Here’s a breakdown of their certifications:
 
-- **CPTS**: **Certified Penetration Testing Specialist**  
-   This certification focuses on penetration testing techniques. It covers skills in ethical hacking, identifying vulnerabilities, and producing actionable reports. This certification is ideal for intermediate-level penetration testers.
+- **CPTS**: Certified Penetration Testing Specialist, this certification focuses on penetration testing techniques. It covers skills in ethical hacking, identifying vulnerabilities, and producing actionable reports. This certification is ideal for intermediate-level penetration testers.
   
-- **CBBH**: **Certified Bug Bounty Hunter**  
-   This certification assesses candidates’ proficiency in bug bounty hunting and web application penetration testing. Certification holders will be skilled in identifying vulnerabilities in web applications, APIs, and services, and writing professional-level reports.
+- **CBBH**: Certified Bug Bounty Hunter, this certification assesses candidates’ proficiency in bug bounty hunting and web application penetration testing. Certification holders will be skilled in identifying vulnerabilities in web applications, APIs, and services, and writing professional-level reports.
   
-- **CDSA**: **Certified Defensive Security Analyst**  
-   Aimed at security operations center (SOC) analysts and incident handlers, this certification validates skills in security analysis, incident detection, and incident reporting. It’s designed for professionals at an intermediate level working in security operations.
+- **CDSA**: Certified Defensive Security Analyst, aimed at security operations center (SOC) analysts and incident handlers, this certification validates skills in security analysis, incident detection, and incident reporting. It’s designed for professionals at an intermediate level working in security operations.
   
-- **CWEE**: **Certified Web Exploitation Expert**  
-   This advanced certification focuses on identifying and exploiting complex web vulnerabilities through both black-box and white-box techniques. It covers in-depth knowledge of modern web security, including source code review and custom exploit development.
+- **CWEE**: Certified Web Exploitation Expert, this advanced certification focuses on identifying and exploiting complex web vulnerabilities through both black-box and white-box techniques. It covers in-depth knowledge of modern web security, including source code review and custom exploit development.
 
 ---
 
