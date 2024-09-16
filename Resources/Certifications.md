@@ -77,8 +77,6 @@ Hack The Box offers highly hands-on, challenge-based certifications aimed at pro
 
 To better prepare for these certifications, you may want to explore the following resources:
 
-- **Professor Messer’s Free Certification Training**  
-   [Professor Messer](https://www.professormesser.com/) offers comprehensive, free video training courses that are particularly helpful for those preparing for CompTIA certifications like Security+, Network+, and A+. His resources include videos, study groups, and practice exams, all aimed at providing a detailed understanding of key cybersecurity concepts in a straightforward and engaging format.
+- **[Professor Messer](https://www.professormesser.com/)**: Offers comprehensive, free video training courses that are particularly helpful for those preparing for CompTIA certifications like Security+, Network+, and A+. His resources include videos, study groups, and practice exams, all aimed at providing a detailed understanding of key cybersecurity concepts in a straightforward and engaging format.
 
-- **Practical Networking (PracNet)**  
-   [Practical Networking Classes](https://classes.pracnet.net/) provides in-depth courses on networking concepts ranging from beginner to advanced topics. The platform covers crucial topics such as IP addressing, subnetting, firewalls, and routing, which are essential for any networking or cybersecurity professional. It is an excellent resource for solidifying networking skills, especially for those preparing for certifications that require strong networking knowledge.
+- **[Practical Networking Classes (PracNet)](https://classes.pracnet.net/)**: Provides in-depth courses on networking concepts ranging from beginner to advanced topics. The platform covers crucial topics such as IP addressing, subnetting, firewalls, and routing, which are essential for any networking or cybersecurity professional. It is an excellent resource for solidifying networking skills, especially for those preparing for certifications that require strong networking knowledge.
