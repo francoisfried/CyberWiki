@@ -10,7 +10,7 @@ Cybersecurity certifications validate the skills and knowledge of professionals,
 
 ---
 
-## Popular Cybersecurity Certifications
+## Popular Certifications
 
 ### CompTIA
 **[Link to Certification](https://www.comptia.org/certifications)**  
@@ -62,20 +62,20 @@ AWS offers a range of certifications across various levels and domains, allowing
 - **Machine Learning – Specialty**  
    Designed for professionals who want to validate their skills in building, training, and deploying machine learning models using AWS services such as SageMaker. This certification emphasizes ML workflows, data engineering, and optimization.
 
-### Hack The Box Certifications
+### Hack The Box (HTB)
 **[Link to Certifications](https://academy.hackthebox.com/preview/certifications)**  
 Hack The Box offers highly hands-on, challenge-based certifications aimed at professionals looking to validate their skills through real-world cybersecurity scenarios. Here’s a breakdown of their certifications:
 
-- **HTB CPTS**: **Certified Penetration Testing Specialist**  
+- **CPTS**: **Certified Penetration Testing Specialist**  
    This certification focuses on penetration testing techniques. It covers skills in ethical hacking, identifying vulnerabilities, and producing actionable reports. This certification is ideal for intermediate-level penetration testers.
   
-- **HTB CBBH**: **Certified Bug Bounty Hunter**  
+- **CBBH**: **Certified Bug Bounty Hunter**  
    This certification assesses candidates’ proficiency in bug bounty hunting and web application penetration testing. Certification holders will be skilled in identifying vulnerabilities in web applications, APIs, and services, and writing professional-level reports.
   
-- **HTB CDSA**: **Certified Defensive Security Analyst**  
+- **CDSA**: **Certified Defensive Security Analyst**  
    Aimed at security operations center (SOC) analysts and incident handlers, this certification validates skills in security analysis, incident detection, and incident reporting. It’s designed for professionals at an intermediate level working in security operations.
   
-- **HTB CWEE**: **Certified Web Exploitation Expert**  
+- **CWEE**: **Certified Web Exploitation Expert**  
    This advanced certification focuses on identifying and exploiting complex web vulnerabilities through both black-box and white-box techniques. It covers in-depth knowledge of modern web security, including source code review and custom exploit development.
 
 ---
