@@ -52,10 +52,6 @@ Microsoft offers a range of certifications for IT professionals, including:
 ### AWS Certified Security – Specialty
 **[Link to Certification](https://aws.amazon.com/certification/certified-security-specialty/)**  
 A specialty-level certification designed for professionals with expertise in securing AWS environments. This certification covers topics such as incident response, logging and monitoring, infrastructure security, identity and access management, and data protection.
-  
-Here’s the updated **Hack The Box Certifications** section with all current offerings:
-
----
 
 ### Hack The Box Certifications
 **[Link to Certifications](https://academy.hackthebox.com/preview/certifications)**  
@@ -72,10 +68,6 @@ Hack The Box offers highly hands-on, challenge-based certifications aimed at pro
   
 - **HTB CWEE**: **Certified Web Exploitation Expert**  
    This advanced certification focuses on identifying and exploiting complex web vulnerabilities through both black-box and white-box techniques. It covers in-depth knowledge of modern web security, including source code review and custom exploit development.
-
----
-
-This new structure ensures that all Hack The Box certifications are listed accurately, with concise descriptions for each.
 
 ---
 
