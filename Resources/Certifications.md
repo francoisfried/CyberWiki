@@ -83,4 +83,13 @@ Hack The Box offers highly hands-on, challenge-based certifications aimed at pro
 ## Additional Resources
 
 To better prepare for these certifications, you may want to explore the following resources:
-- 
+Here’s how you can add a section about Professor Messer to the **Additional Resources** section of your markdown file:
+
+---
+
+## Additional Resources
+
+To better prepare for these certifications, you may want to explore the following resources:
+
+- **Professor Messer’s Free Certification Training**  
+   [Professor Messer](https://www.professormesser.com/) offers comprehensive, free video training courses that are particularly helpful for those preparing for CompTIA certifications like Security+, Network+, and A+. His resources include videos, study groups, and practice exams, all aimed at providing a detailed understanding of key cybersecurity concepts in a straightforward and engaging format.
