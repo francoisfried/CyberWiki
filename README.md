@@ -4,7 +4,7 @@ A curated collection of useful links for cybersecurity professionals, covering v
 
 ## Table of Contents
 1. [Certifications](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/Certifications.md)
-2. [Hardware](https://github.com/francoisfried/CySec-Resources/blob/2586c91231f3dbd01f1892ef46094aa6354133a3/Resources/Hardware.md)
+2. [Hardware](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/Hardware.md)
 3. [News & Blogs](#news)
 
 ## Categories
