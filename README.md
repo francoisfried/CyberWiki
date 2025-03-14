@@ -4,10 +4,9 @@ A curated collection of useful links for cybersecurity professionals, covering v
 
 ## Table of Contents
 1. [Certifications](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Certifications.md)
-2. [Hardware](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Hardware.md)
-3. [News & Blogs](https://github.com/francoisfried/CyberArchives/tree/main/Resources/News.md)
-4. [Operating Systems](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Operating-Systems.md)
-5. [Resources](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Resources.md)
-6. [Tools](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Tools.md)
-7. [Training](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Training.md)
+2. [News & Blogs](https://github.com/francoisfried/CyberArchives/tree/main/Resources/News.md)
+3. [Operating Systems](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Operating-Systems.md)
+4. [Resources](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Resources.md)
+5. [Tools & Software](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Tools-Software.md)
+6. [Training](https://github.com/francoisfried/CyberArchives/tree/main/Resources/Training.md)
 
