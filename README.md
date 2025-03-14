@@ -7,7 +7,7 @@ A curated collection of useful links for cybersecurity professionals, covering v
 2. [Hardware](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/Hardware.md)
 3. [News & Blogs](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/News.md)
 4. [Operating Systems](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/Operating-Systems.md)
-5. [News & Blogs](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/News.md)
-6. [News & Blogs](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/News.md)
-7. [News & Blogs](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/News.md)
+5. [Resources](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/Resources.md)
+6. [Tools](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/Tools.md)
+7. [Training](https://github.com/francoisfried/CySec-Resources/tree/main/Resources/Training.md)
 
