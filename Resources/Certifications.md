@@ -70,8 +70,7 @@ For **high-level security professionals** focusing on risk management, leadershi
 ## **🛣️ Certification Roadmaps**  
 If you're unsure **which certification to take next**, check out these roadmaps for guidance:  
 
-🔹 **[Paul Jerimy’s Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)** – A visual guide to various security certifications and how they relate.  
-🔹 **[CompTIA Career Pathway](https://www.comptia.org/content/it-careers-pathway)** – Shows how different CompTIA certifications align with cybersecurity roles.  
+🔹 **[Paul Jerimy’s Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)** – A visual guide to various security certifications and how they relate.   
 
 ---
 
