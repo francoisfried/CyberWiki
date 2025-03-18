@@ -47,6 +47,12 @@ For professionals looking to **specialize** in ethical hacking, cloud security, 
 | **CBBH** *(Certified Bug Bounty Hunter)* | Hack The Box | Bug Bounty, Web App penetration testing | Intermediate-level | [Link](https://academy.hackthebox.com/preview/certifications) |
 | **CDSA** *(Certified Defensive Security Analyst)* | Hack The Box | Security Operations | Intermediate-level | [Link](https://academy.hackthebox.com/preview/certifications) |
 | **CWEE** *(Certified Web Exploitation Expert)* | Hack The Box | Web app exploitation | Advanced-level | [Link](https://academy.hackthebox.com/preview/certifications) |
+| **GCIH** *(GIAC Certified Incident Handler)* | GIAC | Security incident handling and response | | [Link](https://www.giac.org/certifications) |
+| **GCFA** *(GIAC Certified Forensic Analyst)* | GIAC |Forensic investigations of data breaches and attacks. | | [Link](https://www.giac.org/certifications) |
+| **GPEN** *(GIAC Penetration Tester)* | GIAC |Network penetration testing and ethical hacking | | [Link](https://www.giac.org/certifications) |
+| **GCIA** *(GIAC Certified Intrusion Analyst)* | GIAC |Focuses on detecting and analyzing network intrusions. | | [Link](https://www.giac.org/certifications) |
+| **GREM** *(GIAC Reverse Engineering Malware)* | GIAC |Designed for professionals analyzing and dissecting malware. | | [Link](https://www.giac.org/certifications) |
+
 
 ---
 
