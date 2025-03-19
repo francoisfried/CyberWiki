@@ -95,15 +95,4 @@ If you're unsure **which certification to take next**, check out these roadmaps 
 🗣 **Communities & Forums:**  
 - **Reddit:** [r/cybersecurity](https://www.reddit.com/r/cybersecurity/) – Discussions on careers & certs.  
 - **Discord:** [CyberSec Discord](https://discord.com/invite/cybersecurity) – Security professional networking.  
-- **LinkedIn Groups:** Join security-related groups for networking.  
-
----
-
-## **⚡ Contribute & Keep Updated!**  
-🚀 Cybersecurity certifications **evolve constantly**! This list will be updated periodically to reflect:  
-✅ New certifications.  
-✅ Updates to existing certifications.  
-✅ Changes in industry demand.  
-
-🔹 **Found a new certification? Have a suggestion?**  
-💡 **Open a GitHub issue or submit a pull request** to help keep this guide up to date!  
+- **LinkedIn Groups:** Join security-related groups for networking.   
