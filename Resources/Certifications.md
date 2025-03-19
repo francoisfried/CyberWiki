@@ -52,7 +52,15 @@ For professionals looking to **specialize** in ethical hacking, cloud security, 
 | **GPEN** *(GIAC Penetration Tester)* | GIAC |Network penetration testing and ethical hacking | | [Link](https://www.giac.org/certifications) |
 | **GCIA** *(GIAC Certified Intrusion Analyst)* | GIAC |Focuses on detecting and analyzing network intrusions. | | [Link](https://www.giac.org/certifications) |
 | **GREM** *(GIAC Reverse Engineering Malware)* | GIAC |Designed for professionals analyzing and dissecting malware. | | [Link](https://www.giac.org/certifications) |
-
+| **OSEP** | OffSec | Offensive Security Experienced Penetration Tester - Advanced exploitation techniques for experienced pentesters. | [Link](https://www.offsec.com/courses-and-certifications/) |
+| **OSWE** | OffSec| Offensive Security Web Expert - Focuses on advanced web application security testing. | [Link](https://www.offsec.com/courses-and-certifications/) |
+| **Azure Security Engineer Associate (AZ-500)** | Microsoft | Focuses on securing Azure environments, identity management, and threat protection. | [Link](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&subjects=security) |
+| **Security Operations Analyst Associate (SC-200)** | Microsoft | Validates expertise in threat management, monitoring, and response using Microsoft security solutions. | [Link](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&subjects=security) |
+| **Identity and Access Administrator Associate (SC-300)** | Microsoft | Covers identity and access management strategies using Microsoft Azure. | [Link](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&subjects=security) |
+| **Microsoft Cybersecurity Architect Expert (SC-100)** | Microsoft | Designed for professionals architecting security solutions across Microsoft platforms. | [Link](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification&subjects=security) |  
+| **Security – Specialty** | AWS | Validates expertise in securing AWS environments, covering topics such as IAM, data protection, incident response, and monitoring. |
+| **Advanced Networking – Specialty** | AWS | Focuses on designing and implementing complex networking tasks on AWS, including hybrid IT networks. |
+| **Machine Learning – Specialty** | AWS | Designed for professionals in AI/ML, covering building, training, and deploying ML models on AWS. |
 
 ---
 
