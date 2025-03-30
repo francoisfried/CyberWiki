@@ -98,9 +98,13 @@ A curated list of cybersecurity tools for professionals, ranging from AI search 
 - **[Greenshot](https://getgreenshot.org/):** A lightweight screenshot tool for quickly capturing and annotating screen captures.
 - **[DLP Test](https://dlptest.com/):** A platform for testing data loss prevention solutions.
 - **[Kasm](https://www.kasmweb.com):** An operating system sandbox for secure browsing and application isolation.
+
+## Cryptography
+
 - **[Cryptii](https://cryptii.com):**
 - **[Devglan Asymmetric Encryption](https://www.devglan.com/online-tools/rsa-encryption-decryption):**
-
+- **[Crypt](https://onlinephp.io/crypt):**
+- **[PBKDF2](https://8gwifi.org/pbkdf.jsp):**
 
 # Hacking Hardware Tools
 
