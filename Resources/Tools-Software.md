@@ -6,20 +6,19 @@ A curated list of cybersecurity tools for professionals, ranging from AI search 
 
 ## AI Tools
 
-- **[ChatGPT](https://chat.openai.com/):** An AI chatbot powered by OpenAI’s GPT for natural language queries and responses.
-- **[SearchGPT](https://chatgpt.com/search):** An AI-powered search engine.
-- **[Perplexity AI](https://www.perplexity.ai):** Another AI-powered search engine for generating contextual responses.
+- **[ChatGPT](https://chat.openai.com/)** - An AI chatbot powered by OpenAI’s GPT for natural language queries and responses.
+- **[Perplexity](https://www.perplexity.ai)** - Another AI-powered search engine for generating contextual responses.
 
 ## Browser & Connectivity Tools
 
-- **[Browserling](https://www.browserling.com/):** A browser testing tool that allows testing in different browsers and devices.
-- **[Microsoft Office 365 Connectivity Analyzer](https://testconnectivity.microsoft.com/tests/o365):** A tool from Microsoft to test network connectivity to Office 365 services.
+- **[Browserling](https://www.browserling.com/)** - A browser testing tool that allows testing in different browsers and devices.
+- **[Microsoft Office 365 Connectivity Analyzer](https://testconnectivity.microsoft.com/tests/o365)** - A tool from Microsoft to test network connectivity to Office 365 services.
 
 ## Lookup & Analysis Tools
 
-- **[MX Toolbox](https://mxtoolbox.com/):** A DNS lookup tool for analyzing DNS records and mail server settings.
-- **[ipinfo.io](https://ipinfo.io/what-is-my-ip):** A tool to check your IP address and obtain geographical and ISP information.
-- **[Zxing QR Code Decoder](https://zxing.org/w/decode.jspx):** A QR code decoder for extracting data from QR codes.
+- **[MX Toolbox](https://mxtoolbox.com/)** - A DNS lookup tool for analyzing DNS records and mail server settings.
+- **[ipinfo.io](https://ipinfo.io/what-is-my-ip)** - A tool to check your IP address and obtain geographical and ISP information.
+- **[Zxing QR Code Decoder](https://zxing.org/w/decode.jspx)** - A QR code decoder for extracting data from QR codes.
 
 ## Sandboxes
 
