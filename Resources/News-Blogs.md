@@ -11,7 +11,6 @@ A curated list of security news outlets and blogs that provide updates on cybers
 
 - **[Dark Reading](https://www.darkreading.com/):** News articles focused on information security, vulnerabilities, and threats.
 - **[The Register](https://www.theregister.com/):** A UK-based technology and security news site covering a wide range of topics, including cybersecurity.
-- **[Krebs On Security](https://krebsonsecurity.com/):** Brian Krebs’ security blog, focusing on cybercrime, breaches, and incidents.
 - **[The Hacker News](https://thehackernews.com/):** Daily updates on cyber threats, data breaches, and emerging security technologies.
 - **[Bleeping Computer](https://www.bleepingcomputer.com/):** News articles about security vulnerabilities, malware, and cybersecurity threats.
 - **[Security Week](https://www.securityweek.com/):** News articles covering security trends, breaches, and cybersecurity strategies.
