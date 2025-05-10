@@ -44,3 +44,12 @@ A comprehensive list of training platforms and resources for cybersecurity profe
 - **[HackerOne](https://www.hackerone.com/hackers):** A platform for bug bounty hunters to practice and participate in real-world bug bounty programs.
 - **[SANS Training](https://www.sans.org/):** Provides in-person and online cybersecurity training, including popular certifications like GCIH, GPEN, and more.
 
+---
+
+## Additional Resources 
+- [Cybrary](https://www.cybrary.it/) – Free & paid cybersecurity courses.  
+- [INE Security](https://ine.com/cybersecurity/) – OSCP, CISSP, and Red Team training.  
+- [Pluralsight](https://www.pluralsight.com/) – Tech and security skill courses.
+- [Professor Messer](https://www.professormesser.com/)
+- [Practical Networking Classes (PracNet)](https://classes.pracnet.net/)
+
