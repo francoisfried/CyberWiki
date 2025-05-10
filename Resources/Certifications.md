@@ -58,6 +58,6 @@ For **high-level security professionals** focusing on risk management, leadershi
 | **CISM** *(Certified Information Security Manager)* | ISACA | Security governance, incident management | 5 years in security management | [Link](https://www.isaca.org/credentialing/cism) |
 
 ## Certification Roadmaps  
-If you're unsure **which certification to take next**, check out these roadmaps for guidance:  
+If you're unsure **which certification to take next**, check out this roadmap for guidance:  
 
 **[Paul Jerimy’s Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)** – A visual guide to various security certifications and how they relate.   
