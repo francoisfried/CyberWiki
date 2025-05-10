@@ -5,7 +5,7 @@ A curated list of security news outlets and blogs that provide updates on threat
 ---
 ## Tools
 
-- **[Feedly](https://feedly.com/):** A news feed manager that allows you to aggregate and organize news from different cybersecurity sources.
+- **[Feedly](https://feedly.com/)** - RSS/feed manager for aggregating and tagging cybersecurity sources.
 
 ## News Websites
 
