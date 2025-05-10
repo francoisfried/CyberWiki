@@ -8,8 +8,6 @@ A curated list of cybersecurity **sources**—news outlets, blogs, and tutorial 
 
 * **[Feedly](https://feedly.com)** – RSS/feed manager for aggregating and tagging cybersecurity sources.
 
----
-
 ## Sources
 
 * **[Bleeping Computer](https://www.bleepingcomputer.com)** – Timely coverage of vulnerabilities, malware campaigns, and data breaches.
