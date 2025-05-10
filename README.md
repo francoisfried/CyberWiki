@@ -13,8 +13,8 @@ A curated collection of useful links for cybersecurity professionals, covering v
 
 ---
 
-## **⚡ Contribute & Keep Updated!**  
-🚀 Cybersecurity **evolves constantly**! This list will be updated periodically.
+## **Contribute & Keep Updated!**  
+Cybersecurity **evolves constantly**! This list will be updated periodically.
 
-🔹 **Found a new resource? Have a suggestion?**  
-💡 **Open a GitHub issue or submit a pull request** to help keep this repo up to date! 
+**Found a new resource? Have a suggestion?**  
+**Open a GitHub issue or submit a pull request** to help keep this repo up to date! 
