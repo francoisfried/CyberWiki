@@ -9,7 +9,7 @@ A curated list of security news outlets and blogs that provide updates on threat
 
 ## News Websites
 
-- **[Dark Reading](https://www.darkreading.com/):** News articles focused on information security, vulnerabilities, and threats.
+- **[Dark Reading](https://www.darkreading.com/)-** - News articles focused on information security, vulnerabilities, and threats.
 - **[The Register](https://www.theregister.com/):** A UK-based technology and security news site covering a wide range of topics, including cybersecurity.
 - **[The Hacker News](https://thehackernews.com/):** Daily updates on cyber threats, data breaches, and emerging security technologies.
 - **[Bleeping Computer](https://www.bleepingcomputer.com/):** News articles about security vulnerabilities, malware, and cybersecurity threats.
