@@ -71,4 +71,4 @@ For **high-level security professionals** focusing on risk management, leadershi
 ## **Certification Roadmaps**  
 If you're unsure **which certification to take next**, check out these roadmaps for guidance:  
 
-🔹 **[Paul Jerimy’s Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)** – A visual guide to various security certifications and how they relate.   
+**[Paul Jerimy’s Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)** – A visual guide to various security certifications and how they relate.   
