@@ -1,4 +1,4 @@
-# Leanring Platforms
+# Learning Platforms
 
 A comprehensive list of training platforms and resources for cybersecurity professionals to enhance their skills in various domains like AI hacking, phishing training, and penetration testing.
 
