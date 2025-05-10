@@ -1,4 +1,4 @@
-# Security News and Blogs
+# News and Blogs
 
 A curated list of security news outlets and blogs that provide updates on cybersecurity threats, advisories, tutorials, and the latest research.
 
