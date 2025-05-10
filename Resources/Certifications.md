@@ -2,12 +2,9 @@
  
 Cybersecurity certifications validate professional skills and knowledge, helping individuals advance in their careers. They provide recognition in key areas such as **incident response, penetration testing, risk management, and security governance.**  
 
----
+--- 
 
-## **Categories**  
-Cybersecurity certifications are grouped into different categories based on expertise level and specialization.  
-
-### **Entry-Level Certifications** (For Beginners)  
+## Entry-Level Certifications (For Beginners)  
 Designed for individuals new to IT and cybersecurity.  
 
 | Certification | Issuing Organization | Focus Areas | Experience Level | Official Link |
@@ -15,9 +12,7 @@ Designed for individuals new to IT and cybersecurity.
 | **CompTIA A+** | CompTIA | IT operations, troubleshooting | No experience required | [Link](https://www.comptia.org/certifications/a) |
 | **CompTIA Network+** | CompTIA | Networking fundamentals | No experience required | [Link](https://www.comptia.org/certifications/network) |
 
----
-
-### **Core Cybersecurity Certifications** (General Cybersecurity Knowledge)  
+## Core Cybersecurity Certifications (General Cybersecurity Knowledge)  
 Ideal for professionals seeking a **strong cybersecurity foundation**.  
 
 | Certification | Issuing Organization | Focus Areas | Experience Level | Official Link |
@@ -26,9 +21,7 @@ Ideal for professionals seeking a **strong cybersecurity foundation**.
 | **GSEC** *(GIAC Security Essentials)* | GIAC | Security fundamentals, hands-on security skills | No experience required | [Link](https://www.giac.org/certifications/security-essentials-gsec/) |
 | **SSCP** *(Systems Security Certified Practitioner)* | ISC2 | IT operational security | No experience required | [Link](https://www.isc2.org/Certifications) |
 
----
-
-### **Specialized Certifications** (Focused Areas)  
+## Specialized Certifications (Focused Areas)  
 For professionals looking to **specialize** in ethical hacking, cloud security, or forensics.  
 
 | Certification | Issuing Organization | Focus Areas | Experience Level | Official Link |
@@ -55,9 +48,7 @@ For professionals looking to **specialize** in ethical hacking, cloud security, 
 | **Advanced Networking – Specialty** | AWS | Focuses on designing and implementing complex networking tasks on AWS, including hybrid IT networks. |
 | **Machine Learning – Specialty** | AWS | Designed for professionals in AI/ML, covering building, training, and deploying ML models on AWS. |
 
----
-
-### **Advanced Certifications** (For Senior-Level Professionals)  
+## Advanced Certifications (For Senior-Level Professionals)  
 For **high-level security professionals** focusing on risk management, leadership, and advanced security skills.  
 
 | Certification | Issuing Organization | Focus Areas | Experience Level | Official Link |
@@ -66,9 +57,7 @@ For **high-level security professionals** focusing on risk management, leadershi
 | **CISSP** *(Certified Information Systems Security Professional)* | (ISC)² | Information security governance, risk management | 5 years security experience | [Link](https://www.isc2.org/Certifications/CISSP) |
 | **CISM** *(Certified Information Security Manager)* | ISACA | Security governance, incident management | 5 years in security management | [Link](https://www.isaca.org/credentialing/cism) |
 
----
-
-## **Certification Roadmaps**  
+## Certification Roadmaps  
 If you're unsure **which certification to take next**, check out these roadmaps for guidance:  
 
 **[Paul Jerimy’s Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)** – A visual guide to various security certifications and how they relate.   
