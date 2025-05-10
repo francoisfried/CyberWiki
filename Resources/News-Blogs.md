@@ -21,4 +21,5 @@ A curated list of cybersecurity **sources**—news outlets, blogs, and tutorial 
 * **[SecurityWeek](https://www.securityweek.com)** – Global security news, breach reports, and expert commentary.
 * **[The Hacker News](https://thehackernews.com)** – Daily headlines on emerging threats, exploits, and defense techniques.
 * **[The Register – Security](https://www.theregister.com/security/)** – UK‑based tech publication with a cheeky take on security news.
+* **[Unit 42](https://unit42.paloaltonetworks.com)** – Nation‑state threat research and incident analysis from Palo Alto Networks’ Unit 42.
 
