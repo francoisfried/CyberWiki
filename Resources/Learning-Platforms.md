@@ -46,10 +46,7 @@ A comprehensive list of training platforms and resources for cybersecurity profe
 
 ---
 
-## Additional Resources 
-- [Cybrary](https://www.cybrary.it/) – Free & paid cybersecurity courses.  
-- [INE Security](https://ine.com/cybersecurity/) – OSCP, CISSP, and Red Team training.  
-- [Pluralsight](https://www.pluralsight.com/) – Tech and security skill courses.
+## Additional Resources
 - [Professor Messer](https://www.professormesser.com/)
 - [Practical Networking Classes (PracNet)](https://classes.pracnet.net/)
 
