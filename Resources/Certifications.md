@@ -91,8 +91,3 @@ If you're unsure **which certification to take next**, check out these roadmaps 
 - [Pluralsight](https://www.pluralsight.com/) – Tech and security skill courses.
 - [Professor Messer](https://www.professormesser.com/)
 - [Practical Networking Classes (PracNet)](https://classes.pracnet.net/)
-
-🗣 **Communities & Forums:**  
-- **Reddit:** [r/cybersecurity](https://www.reddit.com/r/cybersecurity/) – Discussions on careers & certs.  
-- **Discord:** [CyberSec Discord](https://discord.com/invite/cybersecurity) – Security professional networking.  
-- **LinkedIn Groups:** Join security-related groups for networking.   
