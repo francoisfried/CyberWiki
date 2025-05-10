@@ -1,27 +1,26 @@
 # News and Blogs
 
-A curated list of security news outlets and blogs that provide updates on threats, advisories, tutorials, and the latest research.
+A curated list of cybersecurity **sources**—news outlets, blogs, and tutorial sites—that keep professionals up to date on threats, advisories, and research.
 
 ---
+
 ## Tools
 
-- **[Feedly](https://feedly.com/)** - RSS/feed manager for aggregating and tagging cybersecurity sources.
-
-## News Websites
-
-- **[Dark Reading](https://www.darkreading.com/)** - News articles focused on information security, vulnerabilities, and threats.
-- **[The Register](https://www.theregister.com/)** - A UK-based technology and security news site covering a wide range of topics, including cybersecurity.
-- **[The Hacker News](https://thehackernews.com/)** - Daily updates on cyber threats, data breaches, and emerging security technologies.
-- **[Bleeping Computer](https://www.bleepingcomputer.com/)** - News articles about security vulnerabilities, malware, and cybersecurity threats.
-- **[Security Week](https://www.securityweek.com/)** - News articles covering security trends, breaches, and cybersecurity strategies.
-- **[CISA Cybersecurity Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories)** - Official cybersecurity advisories from the Cybersecurity and Infrastructure Security Agency (CISA).
-- **[Malwarebytes Blog](https://www.malwarebytes.com/blog)** - News articles on malware detection, cybersecurity threats, and software vulnerabilities from the Malwarebytes team.
-- **[Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/)** - Security news and updates from Microsoft, including cybersecurity threats and defenses.
-- **[InfoSecurity Magazine](https://www.infosecurity-magazine.com/)** - News articles covering the latest developments in cybersecurity.
+* **[Feedly](https://feedly.com)** – RSS/feed manager for aggregating and tagging cybersecurity sources.
 
 ---
 
-## Blogs & Tutorials
+## Sources
 
-- **[Krebs On Security](https://krebsonsecurity.com/)** - A personal blog by Brian Krebs that focuses on investigative journalism around cybercrime, breaches, and incidents.
-- **[Hackersploit](https://hackersploit.org)** - A blog and tutorial site focused on penetration testing, cybersecurity techniques, and ethical hacking.
+* **[Bleeping Computer](https://www.bleepingcomputer.com)** – Timely coverage of vulnerabilities, malware campaigns, and data breaches.
+* **[CISA Cybersecurity Advisories](https://www.cisa.gov/news-events/cybersecurity-advisories)** – Authoritative vulnerability advisories and mitigations from the U.S. government.
+* **[Dark Reading](https://www.darkreading.com)** – Deep‑dive reporting on enterprise security threats, research, and strategy.
+* **[Hackersploit](https://hackersploit.org)** – Hands‑on guides and video tutorials on pentesting and ethical hacking.
+* **[InfoSecurity Magazine](https://www.infosecurity-magazine.com)** – Industry news and analysis of the latest cyber incidents and trends.
+* **[Krebs on Security](https://krebsonsecurity.com)** – Investigative reporting on cybercrime and major breaches by Brian Krebs.
+* **[Malwarebytes Labs](https://www.malwarebytes.com/blog)** – Threat research and breakdowns from the Malwarebytes team.
+* **[Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/)** – Insights and telemetry‑backed threat intelligence from Microsoft.
+* **[SecurityWeek](https://www.securityweek.com)** – Global security news, breach reports, and expert commentary.
+* **[The Hacker News](https://thehackernews.com)** – Daily headlines on emerging threats, exploits, and defense techniques.
+* **[The Register – Security](https://www.theregister.com/security/)** – UK‑based tech publication with a cheeky take on security news.
+
