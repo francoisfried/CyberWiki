@@ -1,4 +1,4 @@
-### **Cybersecurity Certifications**  
+# Certifications 
  
 Cybersecurity certifications validate professional skills and knowledge, helping individuals advance in their careers. They provide recognition in key areas such as **incident response, penetration testing, risk management, and security governance.**  
 
