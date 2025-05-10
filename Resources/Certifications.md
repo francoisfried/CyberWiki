@@ -4,10 +4,10 @@ Cybersecurity certifications validate professional skills and knowledge, helping
 
 ---
 
-## **📌 Certification Categories**  
+## **Categories**  
 Cybersecurity certifications are grouped into different categories based on expertise level and specialization.  
 
-### **🔰 Entry-Level Certifications** (For Beginners)  
+### **Entry-Level Certifications** (For Beginners)  
 Designed for individuals new to IT and cybersecurity.  
 
 | Certification | Issuing Organization | Focus Areas | Experience Level | Official Link |
@@ -17,7 +17,7 @@ Designed for individuals new to IT and cybersecurity.
 
 ---
 
-### **🔒 Core Cybersecurity Certifications** (General Cybersecurity Knowledge)  
+### **Core Cybersecurity Certifications** (General Cybersecurity Knowledge)  
 Ideal for professionals seeking a **strong cybersecurity foundation**.  
 
 | Certification | Issuing Organization | Focus Areas | Experience Level | Official Link |
@@ -28,7 +28,7 @@ Ideal for professionals seeking a **strong cybersecurity foundation**.
 
 ---
 
-### **🎯 Specialized Certifications** (Focused Areas)  
+### **Specialized Certifications** (Focused Areas)  
 For professionals looking to **specialize** in ethical hacking, cloud security, or forensics.  
 
 | Certification | Issuing Organization | Focus Areas | Experience Level | Official Link |
@@ -57,7 +57,7 @@ For professionals looking to **specialize** in ethical hacking, cloud security, 
 
 ---
 
-### **🚀 Advanced Certifications** (For Senior-Level Professionals)  
+### **Advanced Certifications** (For Senior-Level Professionals)  
 For **high-level security professionals** focusing on risk management, leadership, and advanced security skills.  
 
 | Certification | Issuing Organization | Focus Areas | Experience Level | Official Link |
@@ -68,19 +68,7 @@ For **high-level security professionals** focusing on risk management, leadershi
 
 ---
 
-## **🛣️ Certification Roadmaps**  
+## **Certification Roadmaps**  
 If you're unsure **which certification to take next**, check out these roadmaps for guidance:  
 
 🔹 **[Paul Jerimy’s Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)** – A visual guide to various security certifications and how they relate.   
-
----
-
-## **📚 Additional Resources**  
-💡 **Official Study Guides:** Most certifying bodies offer **official prep materials & practice exams.** Check the official certification pages for study resources.  
-
-📌 **Learning Platforms:**  
-- [Cybrary](https://www.cybrary.it/) – Free & paid cybersecurity courses.  
-- [INE Security](https://ine.com/cybersecurity/) – OSCP, CISSP, and Red Team training.  
-- [Pluralsight](https://www.pluralsight.com/) – Tech and security skill courses.
-- [Professor Messer](https://www.professormesser.com/)
-- [Practical Networking Classes (PracNet)](https://classes.pracnet.net/)
