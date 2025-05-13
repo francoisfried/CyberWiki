@@ -1,4 +1,4 @@
-# News and Blogs
+# News & Blogs
 
 A curated list of cybersecurity **sources**—news outlets, blogs, and tutorial sites—that keep professionals up to date on threats, advisories, and research.
 
