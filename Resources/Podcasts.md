@@ -6,7 +6,7 @@ A curated list of cybersecurity podcasts worth subscribing to.
 
 ## Cybersecurity & Threat Intel Channels
 
-- **[Adversary Universe Podcast – CrowdStrike](https://www.crowdstrike.com/en-us/resources/adversary-universe-podcast/)** - In-depth conversations with threat analysts and adversary tracking teams. A great insight into real-world adversaries.
+- **[Adversary Universe – CrowdStrike](https://www.crowdstrike.com/en-us/resources/adversary-universe-podcast/)** - In-depth conversations with threat analysts and adversary tracking teams. A great insight into real-world adversaries.
 - **[Cybersecurity Where You Are - CIS](https://fast.wistia.net/embed/channel/0l9fss300m)** - Produced by the Center for Internet Security, this podcast explores cyber risks, resilience, and best practices across public and private sectors.
 - **[Malicious Life](https://redcircle.com/shows/malicious-life)** - Stories behind the biggest hacks and breaches, narrated with a storytelling approach. Hosted by Ran Levi.
 - **[Darknet Diaries](https://darknetdiaries.com)** - Real stories from the dark web and beyond. Hosted by Jack Rhysider. A must-listen in the cybersecurity space.
