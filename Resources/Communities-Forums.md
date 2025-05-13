@@ -30,8 +30,17 @@ A curated list of online communities where cybersecurity professionals connect, 
 - **[r/networking](https://www.reddit.com/r/networking/)** – Discussions on routing, switching, firewalls, and general networking — foundational for security pros.
 
 
-## Discord 
+## Discord Servers
 - **[CyberSec Discord](https://discord.com/invite/cybersecurity)** - Security professional networking.
+- **[Black Hills Information Security (BHIS)](https://discord.gg/bhis)** – One of the most respected infosec firms; their server includes job boards, training discussions, threat sharing, and regular AMAs with experts.
+- **[TCM Security](https://discord.gg/cD5SZdEbfw)** – Home of The Cyber Mentor. Great for pentesting, OSCP/PNPT prep, and beginner-friendly channels.
+- **[Hack The Box](https://discord.gg/hackthebox)** – Official server for HTB learners. Includes machine discussions, help channels, and CTF support.
+- **[TrustedSec](https://discord.gg/trustedsec)** – Led by Dave Kennedy. High-quality discussions on red teaming, offensive tooling, and industry news.
+- **[Security Blue Team](https://discord.gg/VafP5EDaVJ)** – Ideal for SOC analysts and defenders. Includes detection engineering, SIEMs, IR support, and career mentorship.
+- **[TryHackMe (Community)](https://discord.gg/xbCA4AdtCN)** – Fan-driven THM discussion server. CTF support, challenge hints, and walkthrough collaborations.
+- **[Red Team Village](https://discord.gg/dBSv3RSADM)** – Focused on offensive security and CTFs. Often hosts events and collabs with DEF CON villages.
+- **[CybHER](https://discord.gg/pCEcHrTQB5)** – Community promoting women in cybersecurity and inclusive education. Supportive environment for learners.
+- **[Infosec Prep](https://discord.gg/YQPRHC7eC4)** – One of the most popular servers for certification prep (OSCP, Security+, etc.), with detailed study guides and active Q\&A.
 
 ## LinkedIn 
 - **LinkedIn Groups** - Join security-related groups for networking.  
