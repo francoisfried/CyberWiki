@@ -7,7 +7,7 @@ A comprehensive list of essential resources, databases, standards, and framework
 ## Matrices
 
 - **[MITRE ATT&CK](https://attack.mitre.org/)** - A globally-accessible knowledge base of adversary tactics and techniques based on real-world observations, provided by MITRE.
-- **[MITRE D3FEND](https://d3fend.mitre.org)** - 
+- **[MITRE D3FEND](https://d3fend.mitre.org)** - A knowledge graph of cybersecurity countermeasures that maps defensive techniques to specific adversary behaviors, designed to complement MITRE ATT&CK by focusing on defense and mitigation strategies.
 
 ## CVE (Common Vulnerabilities and Exposures) Databases
 
