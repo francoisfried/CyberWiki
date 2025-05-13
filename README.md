@@ -1,4 +1,4 @@
-# Cybersecurity Resources
+# Cybersecurity Wiki
 
 A curated collection of useful links for cybersecurity professionals, covering various topics like incident response, penetration testing, certifications, and more.
 
