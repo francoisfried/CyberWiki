@@ -16,5 +16,5 @@ A curated list of cybersecurity podcasts worth subscribing to.
 ## Network Engineering & Infrastructure Channels
 
 - **[The Art of Network Engineering](https://artofnetworkengineering.com)** - Conversations with networking professionals on career paths, certifications, and infrastructure challenges.
-- **[Packet Pushers Podcast](https://packetpushers.net)** - Covers enterprise networking, cloud, SD-WAN, and the nitty-gritty of IT infrastructure.
+- **[Packet Pushers](https://packetpushers.net)** - Covers enterprise networking, cloud, SD-WAN, and the nitty-gritty of IT infrastructure.
 - **[Hedge – Rule 11](https://rule11.tech/category/hedge/)** - Deep thinking and discussions on network architecture, protocols, and the philosophy of engineering.
