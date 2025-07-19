@@ -51,6 +51,10 @@ A curated list of cybersecurity tools for professionals, ranging from AI search 
 - **[Any Run](https://any.run/)** - An interactive malware analysis sandbox for dynamic analysis of malware behavior.
 - **[Wireshark](https://www.wireshark.org/)** - A network protocol analyzer used to capture and analyze traffic.
 
+## OSINT
+
+- **[Internet Archives](https://archive.org)** - A massive digital library providing access to historical snapshots of websites (via the Wayback Machine), archived media, and datasets.
+
 ## Penetration Testing Tools
 
 - **[Metasploit](https://www.metasploit.com/)** - An open-source penetration testing framework used for vulnerability assessment and exploitation.
