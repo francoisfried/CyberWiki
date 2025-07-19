@@ -79,6 +79,7 @@ A curated list of cybersecurity tools for professionals, ranging from AI search 
 - **[Greenshot](https://getgreenshot.org/)** - A lightweight screenshot tool for quickly capturing and annotating screen captures.
 - **[DLP Test](https://dlptest.com/)** - A platform for testing data loss prevention solutions.
 - **[Kasm](https://www.kasmweb.com)** - An operating system sandbox for secure browsing and application isolation.
+- **[CyberChef](https://cyberchef.org)** - A powerful web-based tool for encoding, decoding, analyzing, and manipulating data. Ideal for forensic analysis, malware reverse engineering, cryptography, and general data munging.
 
 ## Cryptography
 
